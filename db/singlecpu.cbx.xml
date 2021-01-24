@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="singlecpu">
+		<CBX_INST_ENTRY INSTANCE_NAME="|cpu_mul|sc_datamem_mul:inst3|lpm_ram_dq1:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_23d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|cpu_mul|sc_instmem_mul:inst1|lpm_rom3:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_at31.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

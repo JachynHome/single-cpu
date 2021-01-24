@@ -1,0 +1,59 @@
+WED
+
+	Undo Commands
+	     1.	Edit Waveform
+	     2.	Clock
+	     3.	Clock
+	     4.	Count Value
+			 *** 
+	     5.	Node or Bus Properties
+			 *** 
+	     6.	Clock
+	     7.	Drop Node
+			 *** 
+	     8.	Drop Node
+			 *** 
+	     9.	Insert Node or Bus
+	    10.	Delete Node, Bus or Waveform Divider
+
+
+RPW
+
+	Undo Commands
+	     1.	||Simulation Report||Simulator||Simulation Waveforms
+
+
+GED
+
+	Undo Commands
+	     1.	Properties
+
+
+GED
+
+	Undo Commands
+	     1.	Properties
+	     2.	Move
+	     3.	Move
+	     4.	Move
+	     5.	Move
+	     6.	Move
+	     7.	Move
+	     8.	Move
+	     9.	Move
+	    10.	Move
+	    11.	Insert Symbol
+	    12.	Insert Symbol
+	    13.	Insert Symbol
+	    14.	Insert Symbol
+	    15.	Insert Symbol
+	    16.	Insert Symbol
+	    17.	Insert Symbol
+
+
+ASE
+
+	Undo Commands
+	     1.	Create Assignment
+
+
